@@ -132,4 +132,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<modules>
+		<module>library-model</module>
+	</modules>
 </project>
