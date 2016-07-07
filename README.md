@@ -19,7 +19,4 @@ $ cd library-app
 
 $ mvn install
 
-# running tests
-
-$ mvn test
 ```
