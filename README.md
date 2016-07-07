@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/djuniorscjr/library-app.svg?branch=master)](https://travis-ci.org/djuniorscjr/library-app)
+
 # Library app
 A simple app created in java using Wildfly 9.0.2, JEE 7 and java 8
 
